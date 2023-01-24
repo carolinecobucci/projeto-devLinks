@@ -22,6 +22,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
+## 💡 Experiências Adquiridas
+
+Através deste projeto pude adquirir os conhecimentos básicos de HTML, CSS, JavaScript e responsividade, com destaque para a possibilidade de visualização do layout em modo noturno ou modo light. Usei como base o layout disponibilizado e fiz modificações no projeto original, usando meu próprio avatar e links.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
